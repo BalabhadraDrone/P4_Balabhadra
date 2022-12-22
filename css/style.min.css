@@ -26,14 +26,25 @@ i {
 
   .thefuckingfooter {
     display: block;
-    height: 300px;
+    margin-top: 570px;
     background-color: #364577;
+  }
+
+  .painintheneck {
+    display: none;
   }
 
   .improvise {
     display: block;
-    height: 300px;
+    height: 10vh;
     background-color: #364577;
+  }
+
+  .improvise p {
+    margin-top: 10px;
+  }
+
+  .improvise nav {
   }
 
   .theannoyingbutton {
@@ -164,6 +175,10 @@ i {
   }
   
 @media only screen and (min-width:1024px) and (max-width:1366px) and (-webkit-min-device-pixel-ratio:1.5) {
+
+  .improvise {
+    height: 17vh;
+  }
     .b-parallax {
       background-attachment:scroll;
     }
@@ -187,6 +202,10 @@ i {
 
   *{
     margin-left: 3px;
+  }
+
+  .improvise {
+    display: none;
   }
 
 
