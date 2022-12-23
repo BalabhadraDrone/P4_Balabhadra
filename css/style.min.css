@@ -20,11 +20,11 @@ i {
   
 @media (min-width:768px) {
 
-  .jesusfuckingchrist {
+  .ohgodhelpme {
     display: none;
   }
 
-  .thefuckingfooter {
+  .nochoice {
     display: block;
     margin-top: 570px;
     background-color: #364577;
@@ -177,7 +177,7 @@ i {
 @media only screen and (min-width:1024px) and (max-width:1366px) and (-webkit-min-device-pixel-ratio:1.5) {
 
   .improvise {
-    height: 17vh;
+    height: 23vh;
   }
     .b-parallax {
       background-attachment:scroll;
@@ -209,22 +209,22 @@ i {
   }
 
 
-  .jesusfuckingchrist {
+  .ohgodhelpme {
     position: absolute;
     right: 50px;
     width: 100px;
     text-decoration: none;
   }
 
-  .jesusfuckingchrist i {
+  .ohgodhelpme i {
     color: #4a4b4f;
   }
 
-  .jesusfuckingchrist ul {
+  .ohgodhelpme ul {
     list-style: none;
   }
 
-  .jesusfuckingchrist li {
+  .ohgodhelpme li {
     color: white;
   }
 
