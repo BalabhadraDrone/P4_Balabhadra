@@ -36,7 +36,7 @@ i {
 
   .improvise {
     display: block;
-    height: 10vh;
+    height: 14vh;
     background-color: #364577;
   }
 
@@ -177,7 +177,7 @@ i {
 @media only screen and (min-width:1024px) and (max-width:1366px) and (-webkit-min-device-pixel-ratio:1.5) {
 
   .improvise {
-    height: 23vh;
+    height: 20vh;
   }
     .b-parallax {
       background-attachment:scroll;
